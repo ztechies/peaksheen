@@ -26,7 +26,7 @@ const nextConfig = {
     env: {
         APP_ENV: NODE_ENV,
     },
-    images: {
+    Images: {
         domains: ["stage-admin.peaksheen.com", "admin.peaksheen.com"],
     },
     // Adding policies:
