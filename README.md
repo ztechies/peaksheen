@@ -35,8 +35,8 @@ with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/
 │ │ 	└── build
 │ │ 		└── `npm run build` will executed to verify that production build is created successfully
 │ ├── public
-| | ├── images
-| | 	└── this directory contains all the images and icons used in the application
+| | ├── Images
+| | 	└── this directory contains all the Images and icons used in the application
 ├ ├── src
 │ │ ├── app
 │ │  	└── each folder in next js is a url.
